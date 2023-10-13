@@ -1,0 +1,2 @@
+conda develop .
+conda develop -u .
